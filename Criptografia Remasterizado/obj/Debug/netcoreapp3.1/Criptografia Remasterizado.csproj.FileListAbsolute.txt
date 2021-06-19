@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\bin\Debug\netcoreapp3.1\Criptografia Remasterizado.exe
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\bin\Debug\netcoreapp3.1\Criptografia Remasterizado.deps.json
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\bin\Debug\netcoreapp3.1\Criptografia Remasterizado.runtimeconfig.json
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\bin\Debug\netcoreapp3.1\Criptografia Remasterizado.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\bin\Debug\netcoreapp3.1\Criptografia Remasterizado.dll
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\bin\Debug\netcoreapp3.1\Criptografia Remasterizado.pdb
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\obj\Debug\netcoreapp3.1\Criptografia Remasterizado.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\obj\Debug\netcoreapp3.1\Criptografia_Remasterizado.Form1.resources
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\obj\Debug\netcoreapp3.1\Criptografia Remasterizado.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\obj\Debug\netcoreapp3.1\Criptografia Remasterizado.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\obj\Debug\netcoreapp3.1\Criptografia Remasterizado.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\obj\Debug\netcoreapp3.1\Criptografia Remasterizado.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\obj\Debug\netcoreapp3.1\Criptografia Remasterizado.dll
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\obj\Debug\netcoreapp3.1\Criptografia Remasterizado.pdb
+C:\Users\gabri\source\repos\Criptografia Remasterizado\Criptografia Remasterizado\obj\Debug\netcoreapp3.1\Criptografia Remasterizado.genruntimeconfig.cache
